@@ -1,16 +1,20 @@
 ## Hi there 👋
+Mark Maina
+"Continuous improvement is better than delayed perfection." — Brian Tracy
 
-<!--
-**maximaich72-lgtm/maximaich72-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
+I am a builder, a strategist, and an absolute believer in relentless, compounding discipline. Operating with the relentless ambition of Jim Rohn and the calculated focus of Robert Greene, I don't just learn skills—I master them.
 
-Here are some ideas to get you started:
+Every day is an intentional step forward: building better systems, writing cleaner code, and pushing past yesterday's limits. I am starting fresh, but my trajectory is absolute.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Current Focus: Mastering Git, version control, and modern software engineering.
+
+🚀 Mission: To compound my skills daily and build autonomous digital leverage.
+
+Featured Project
+git-learning-log: The foundation. Tracking version control mastery, one commit at a time.
+
+Connect
+GitHub: maximaich72-lgtm
+
+Reach Out: maximaich72@gmail.com
